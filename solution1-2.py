@@ -2,7 +2,7 @@
 """
 Solution to exercise 2 from lecture 1.
 """
-
+#code written by SHAYANTAN BANERJEE
 
 Cn = 1                  # first Catalan number
 n = 1                   # counter
