@@ -1,3 +1,4 @@
+#code written by SHAYANTAN BANERJEE
 def jumpAndBackpedal(isMyNumber):
     '''
     isMyNumber: Procedure that hides a secret number. 
