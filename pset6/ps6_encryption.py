@@ -1,6 +1,7 @@
 # 6.00x Problem Set 6
 #
 # Part 1 - HAIL CAESAR!
+#code written by SHAYANTAN BANERJEE
 
 import string
 import random
