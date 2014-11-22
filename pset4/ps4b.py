@@ -1,7 +1,7 @@
 from ps4a import *
 import time
 
-
+#code written by SHAYANTAN BANERJEE
 #
 #
 # Problem #6: Computer chooses a word
