@@ -1,3 +1,6 @@
+
+#code written by SHAYANTAN BANERJEE
+
 class Member(object):
     def __init__(self, founder):
         """ 
