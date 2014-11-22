@@ -1,4 +1,5 @@
 #Exothermic reaction releasing heat 
+#code written by SHAYANTAN BANERJEE
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
