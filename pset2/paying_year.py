@@ -1,3 +1,4 @@
+#code written by SHAYANTAN BANERJEE
 balance = 3926
 annualInterestRate = 0.2
 payment = 0
