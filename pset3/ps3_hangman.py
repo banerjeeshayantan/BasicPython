@@ -2,7 +2,7 @@
 # 
 # Hangman game
 #
-
+#code written by SHAYANTAN BANERJEE
 # -----------------------------------
 # Helper code
 # You don't need to understand this helper code,
