@@ -1,9 +1,11 @@
 
+#code written by SHAYANTAN BANERJEE
 #1: Eigenvalues of a random matrix
 #Take a large-dimensional (dimension 100, 1000, or more) square random
 #matrix whose elements are independently drawn from N (0; 1) and plot a
 #histogram of its eigenvalues to illustrate Wigner’s semicircle law (see
 #en.wikipedia.org/wiki/Wigner_semicircle_distribution).
+
 
 import numpy as np
 from scipy import linalg as LA
