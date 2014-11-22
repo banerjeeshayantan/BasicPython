@@ -1,5 +1,6 @@
 #!/usr/bin/python
 """
+#code written by SHAYANTAN BANERJEE
 Solution to exercise 1 from lecture 1.
 """
 
