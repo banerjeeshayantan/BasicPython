@@ -13,6 +13,7 @@ def radiationExposure(start, stop, step):
     returns: float, the amount of radiation exposed to 
         between start and stop times.
     """
+    #code written by SHAYANTAN BANERJEE
     area = 0
     while start <  stop:
         area = area + f(start) * step
