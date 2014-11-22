@@ -1,3 +1,4 @@
+#code written by SHAYANTAN BANERJEE
 balance = 4842
 annualInterestRate = 0.2
 monthlyPaymentRate = 0.04
