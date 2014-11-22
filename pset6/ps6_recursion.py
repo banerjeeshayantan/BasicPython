@@ -1,7 +1,7 @@
 # 6.00x Problem Set 6
 #
 # Part 2 - RECURSION
-
+#code written by SHAYANTAN BANERJEE
 #
 # Problem 3: Recursive String Reversal
 #
