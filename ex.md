@@ -42,3 +42,18 @@ In the 2019 article titled “It’s time for scientists to shout about RNA ther
 > One reason that RNA-based approaches are the lesser-known and seldom-seen sibling of DNA therapies might be the evident complexity of RNA biology, and the perceived difficulties in talking about it to a non-scientific audience.
 
 The public perception of gene-editing technologies such as CRISPR-Cas9 has been completely different from that of RNA therapies. Although attractive, manipulating DNA sequences to repair genetic alterations comes with its own set of challenges. They are unidirectional changes and can be inherited. RNA therapies, on the other hand, make temporary changes on the output of a gene (the protein) instead of changing the actual sequence [1].
+
+ *So how do mRNA vaccines work? Are they safe? And how do they differ from traditional vaccines?*
+
+But first, let’s take a quick recap of how our body’s immune system works.
+
+{{<figure src="/images/blogs/immune.jpg" class="text-center">}}
+{{<rawhtml>}}
+<center><p>Our immune system [Image credits](https://www.cancercenter.com/community/blog/2020/04/covid-support-immune-system)<p></center>
+{{</rawhtml>}}
+
+When a virus enters your body, it attaches itself to one of your healthy cells. The virus then starts injecting its genomic material (DNA/RNA) into the cell. As discussed in the section above, these are like *blueprints* containing information on what the cells have to make. In short, the RNA from the virus directs your cell to produce multiple copies of the same virus (thereby infecting even more cells), essentially turning it into a *germ factory*.
+
+But this is not a rare occurrence or a brand new event. Evolution has taught our body’s immune system to turn itself on and fight against any intruder that doesn’t belong. The only catch? It takes a few days to recognize this intruder, tag them and destroy them. By that time, the virus has replicated many many times and you start feeling the symptoms of whatever has infected you.
+
+***Enter Vaccines***
