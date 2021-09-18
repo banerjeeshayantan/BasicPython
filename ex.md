@@ -14,3 +14,25 @@ But, even before we talk about the mRNA-based vaccines, what does the transcript
 * The transcriptome
 
 Let’s begin.
+
+### The curious case of the marvelous messenger — RNA
+
+
+{{<figure src="/images/blogs/rna.jpg" class="text-center">}}
+{{<rawhtml>}}
+<center><p>Ribonucleic Acid [Image credits](https://microbenotes.com/rna-properties-structure-types-and-functions/)<p></center>
+{{</rawhtml>}}
+
+Ribonucleic Acid (RNA) is an important biological macromolecule that is present in our cells. RNA molecules carry essential genetic information and are rightfully dubbed as **messengers**. Chemically it differs from the DNA molecule in three basic aspects:
+
+* RNA is a single-stranded molecule as opposed to double-stranded DNA.
+* The sugar-phosphate “backbone” of the RNA molecule (shown in the picture above) is made up of [ribose](https://en.wikipedia.org/wiki/Ribose) instead of [deoxyribose](https://en.wikipedia.org/wiki/Deoxyribose).
+* The complementary base to [adenine](https://en.wikipedia.org/wiki/Adenine) in RNA is [uracil](https://en.wikipedia.org/wiki/Uracil) instead of [thymine](https://en.wikipedia.org/wiki/Thymine).
+
+Here’s a quick rundown on the different types of RNA molecules that is relevant to this article:
+
+### The translators:
+* mRNA (messenger RNA): transfers information from the genes to the ribosome where proteins are made.
+* rRNA (ribosomal RNA): forms the primary component of ribosomes and catalyzes the assembly of amino acids into protein chains.
+* tRNA (transfer RNA): decodes the information present in the mRNA and helps add amino acids to a protein chain.
+*(I would encourage the reader to read up on the other types of RNA molecules not covered here: micro RNA, small nuclear RNA, small nucleolar RNA, and long intervening non-coding RNA)*
