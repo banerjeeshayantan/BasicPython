@@ -113,7 +113,7 @@ Now the transcriptome will tell us which genes are turned on or off in the diffe
 
 Let’s start with an example of a bunch of normal (in blue) and COVID-19 infected (abnormal) lung cells (in red). It is pretty obvious that the abnormal cells would behave differently and contribute towards disease severity.
 
-***What is the underlying genetic cause that is responsible for the infected lung cells to behave differently than the normal cells?***
+***What is the underlying genetic cause that is responsible for the infected lung cells to behave differently than the normal cells?***  
 The straightforward way to determine this would be to look at the changes in gene expression. Cells are made up of chromosomes which in turn are made up of genes. Wikipedia states,
 > **Gene expression** is the process by which information from a gene is used in the synthesis of a functional gene product that enables it to produce end products, protein or non-coding RNA, and ultimately affect a phenotype, as the final effect.
 
