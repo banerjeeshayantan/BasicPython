@@ -34,5 +34,4 @@ Here’s a quick rundown on the different types of RNA molecules that is relevan
 ### The translators:
 * mRNA (messenger RNA): transfers information from the genes to the ribosome where proteins are made.
 * rRNA (ribosomal RNA): forms the primary component of ribosomes and catalyzes the assembly of amino acids into protein chains.
-* tRNA (transfer RNA): decodes the information present in the mRNA and helps add amino acids to a protein chain.  
-*(I would encourage the reader to read up on the other types of RNA molecules not covered here: micro RNA, small nuclear RNA, small nucleolar RNA, and long intervening non-coding RNA)*
+* tRNA (transfer RNA): decodes the information present in the mRNA and helps add amino acids to a protein chain.  *(I would encourage the reader to read up on the other types of RNA molecules not covered here: micro RNA, small nuclear RNA, small nucleolar RNA, and long intervening non-coding RNA)*
