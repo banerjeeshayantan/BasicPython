@@ -18,7 +18,7 @@ Let’s begin.
 ### The curious case of the marvelous messenger — RNA
 
 
-{{<figure src="/images/blogs/rna.jpg" class="text-center">}}
+{{<figure src="rna.jpg" class="text-center">}}
 {{<rawhtml>}}
 <center><p>Ribonucleic Acid [Image credits](https://microbenotes.com/rna-properties-structure-types-and-functions/)<p></center>
 {{</rawhtml>}}
