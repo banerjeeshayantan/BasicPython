@@ -34,4 +34,11 @@ Here’s a quick rundown on the different types of RNA molecules that is relevan
 ### The translators:
 * mRNA (messenger RNA): transfers information from the genes to the ribosome where proteins are made.
 * rRNA (ribosomal RNA): forms the primary component of ribosomes and catalyzes the assembly of amino acids into protein chains.
-* tRNA (transfer RNA): decodes the information present in the mRNA and helps add amino acids to a protein chain.  *(I would encourage the reader to read up on the other types of RNA molecules not covered here: micro RNA, small nuclear RNA, small nucleolar RNA, and long intervening non-coding RNA)*
+* tRNA (transfer RNA): decodes the information present in the mRNA and helps add amino acids to a protein chain.  
+*(I would encourage the reader to read up on the other types of RNA molecules not covered here: micro RNA, small nuclear RNA, small nucleolar RNA, and long intervening non-coding RNA)*
+ 
+### RNA therapies — a candle in the dark
+In the 2019 article titled “It’s time for scientists to shout about RNA therapies” published in Nature, Dr. Lorna Harries argued that,
+> One reason that RNA-based approaches are the lesser-known and seldom-seen sibling of DNA therapies might be the evident complexity of RNA biology, and the perceived difficulties in talking about it to a non-scientific audience.
+
+The public perception of gene-editing technologies such as CRISPR-Cas9 has been completely different from that of RNA therapies. Although attractive, manipulating DNA sequences to repair genetic alterations comes with its own set of challenges. They are unidirectional changes and can be inherited. RNA therapies, on the other hand, make temporary changes on the output of a gene (the protein) instead of changing the actual sequence [1].
